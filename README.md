@@ -9,7 +9,7 @@ git commit -m "first commit"
 
 git branch -M main
 
-git remote add origin https://github.com/본인계정명/리포지토리명.git
+git remote add origin https://github.com/minssing97/AI_Proposal.git
 
 git push -u origin main
 
